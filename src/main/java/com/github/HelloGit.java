@@ -6,6 +6,9 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		System.out.println("gegnxin1");
 		System.out.println("第二次之前更新");
+		System.out.println("gegnxin2");
+		System.out.println("gegnxin3");
+		System.out.println("gegnxin4");
 	}
 
 }
